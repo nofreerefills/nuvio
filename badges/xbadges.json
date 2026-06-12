@@ -242,7 +242,7 @@
     {
       "groupId": "gv",
       "id": "v-imax-e",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/grey-IMAX-enhanced.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/color-imax-enhanced.png",
       "isEnabled": true,
       "name": "IMAX Enhanced",
       "pattern": "(?i)\\bimax[\\s._-]?enhanced\\b",
@@ -255,7 +255,7 @@
     {
       "groupId": "gv",
       "id": "v-imax",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/grey-IMAX.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/color-imax.png",
       "isEnabled": true,
       "name": "IMAX",
       "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
