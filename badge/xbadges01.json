@@ -47,7 +47,7 @@
     {
       "groupId": "gr",
       "id": "r-4k",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-4k2.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-4k3.png",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
@@ -60,7 +60,7 @@
     {
       "groupId": "gr",
       "id": "r-1080",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-1080p2.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-1080p3.png",
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
@@ -73,7 +73,7 @@
     {
       "groupId": "gr",
       "id": "r-720",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-720p2.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-720p3.png",
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
@@ -112,7 +112,7 @@
     {
       "groupId": "gq",
       "id": "q-r",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-remux2.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-remux3.png",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\b(?:bd|uhd)?remux\\b",
@@ -151,7 +151,7 @@
     {
       "groupId": "gq",
       "id": "q-wr",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-webrip2.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-webrip3.png",
       "isEnabled": true,
       "name": "WebRip",
       "pattern": "(?i)^(?=.*(?:^|[\\s\\[( _.,\\-])(?:web[\\-_. ]?rip)(?:[\\s\\])\\]_.,\\-0-9]|$))",
@@ -177,7 +177,7 @@
     {
       "groupId": "gco",
       "id": "co-hevc",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-hevc2.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-hevc3.png",
       "isEnabled": true,
       "name": "HEVC",
       "pattern": "(?i)\\b(?:hevc|h[\\s._-]?265|x265)\\b",
