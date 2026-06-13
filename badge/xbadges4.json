@@ -73,7 +73,7 @@
     {
       "groupId": "gr",
       "id": "r-720",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-720p3.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-720p4.png",
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
@@ -112,7 +112,7 @@
     {
       "groupId": "gq",
       "id": "q-r",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-remux3.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-remux4.png",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\b(?:bd|uhd)?remux\\b",
@@ -125,7 +125,7 @@
     {
       "groupId": "gq",
       "id": "q-b",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-bluray2.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-bluray4.png",
       "isEnabled": true,
       "name": "BluRay",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray|\\bb[dr][-_. ]?rip\\b|\\bbd(?:25|50|r|mv)?\\b))(?!.*\\b(?:bd|uhd)?remux\\b)",
@@ -138,7 +138,7 @@
     {
       "groupId": "gq",
       "id": "q-w",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-webdl2.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-webdl4.png",
       "isEnabled": true,
       "name": "WebDL",
       "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl|web(?![-_. ]?rip)\\b)",
@@ -268,7 +268,7 @@
     {
       "groupId": "ga",
       "id": "a-th",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-truehd.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-truehd4.png",
       "isEnabled": false,
       "name": "TrueHD",
       "pattern": "(?i)(?:\\btrue[ ._-]?hd\\b|^(?=.*\\batmos\\b)(?=.*\\bremux\\b)(?!.*\\b(?:true[ ._-]?hd|ddp|dd\\+|e-?ac3|eac3)\\b).+$)",
@@ -281,7 +281,7 @@
     {
       "groupId": "ga",
       "id": "a-at",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-atmos.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-atmos4.png",
       "isEnabled": false,
       "name": "Atmos",
       "pattern": "(?i)^(?!.*\\btrue[ _\\.\\-]?hd\\b).*\\batmos\\b.*$",
@@ -294,7 +294,7 @@
     {
       "groupId": "ga",
       "id": "a-dtsx",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-dtsx.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-dtsx4.png",
       "isEnabled": false,
       "name": "DTS:X",
       "pattern": "(?i)\\bdts[-_.: ]?x\\b",
@@ -307,7 +307,7 @@
     {
       "groupId": "ga",
       "id": "a-dtsma",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-dtshdma.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-dtshdma4.png",
       "isEnabled": false,
       "name": "DTS-HD MA",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
@@ -320,7 +320,7 @@
     {
       "groupId": "ga",
       "id": "a-dtshd",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-dtshd.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-dtshd4.png",
       "isEnabled": false,
       "name": "DTS-HD",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?hd\\b)(?!.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
@@ -333,7 +333,7 @@
     {
       "groupId": "ga",
       "id": "a-dts",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-dts.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-dts4.png",
       "isEnabled": false,
       "name": "DTS",
       "pattern": "(?i)^(?=.*\\bDTS\\b)(?!.*\\bdts[-_. ]?(?:hd|ma|xll|x)\\b)",
@@ -346,7 +346,7 @@
     {
       "groupId": "ga",
       "id": "a-dp",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-digital+.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-digital+4.png",
       "isEnabled": false,
       "name": "DD+",
       "pattern": "(?i)^(?=.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\batmos\\b)(?!.*\\btrue[\\s._-]?hd\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
@@ -359,7 +359,7 @@
     {
       "groupId": "ga",
       "id": "a-dd",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-digital.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-digital4.png",
       "isEnabled": false,
       "name": "DD",
       "pattern": "(?i)^(?=.*\\b(?:dd[25][. ][01]|dd[^p+a-z]\\b|\\bac-?3)\\b)(?!.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
@@ -372,7 +372,7 @@
     {
       "groupId": "gc",
       "id": "ch-71",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-71.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-714.png",
       "isEnabled": false,
       "name": "7.1",
       "pattern": "[^0-9][7-8][. ][01](?![0-9])",
@@ -385,7 +385,7 @@
     {
       "groupId": "gc",
       "id": "ch-61",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-61.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-614.png",
       "isEnabled": false,
       "name": "6.1",
       "pattern": "(?i)(?=.*[^0-9]6[ .][0-1]\\b)(?!.*[^0-9][7-8][ .][0-1]\\b)(?!.*[^0-9]5[ .][0-1]\\b)(?!.*(?<!repac)[^0-9][1-4][ .][0-1]\\b|\\\\b(Stereo|Mono)\\\\b)",
@@ -398,7 +398,7 @@
     {
       "groupId": "gc",
       "id": "ch-51",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-51.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badge/color-514.png",
       "isEnabled": false,
       "name": "5.1",
       "pattern": "^(?=.*[^0-9]5[. ][01](?![0-9]))(?!.*[^0-9][7-8][. ][01](?![0-9]))",
