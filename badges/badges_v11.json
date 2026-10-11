@@ -330,19 +330,6 @@
       "textColor": "#000000",
       "tagStyle": "filled",
       "type": "filter"
-    },
-    {
-      "id": "v-10bit",
-      "name": "10bit",
-      "groupId": "gv",
-      "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‍‌⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤|⁣‌‌‌‌‌‍‌‍⁤))",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/v-10bit_v10.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#000000",
-      "tagStyle": "filled",
-      "type": "filter"
     }
   ]
 }
