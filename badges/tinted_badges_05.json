@@ -112,6 +112,19 @@
       "textColor": "#BBDEFB",
       "type": "filter"
     },
+	{
+      "borderColor": "#BBDEFB",
+      "groupId": "gst",
+      "id": "uncut",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/tinted_badges/uncut-light-blue.png",
+      "isEnabled": true,
+      "name": "UNCUT",
+      "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‌‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤))",
+      "tagColor": "#24BBDEFB",
+      "tagStyle": "filled",
+      "textColor": "#BBDEFB",
+      "type": "filter"
+    },
     {
       "borderColor": "#FFD500",
       "groupId": "gms",
