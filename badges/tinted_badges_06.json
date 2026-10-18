@@ -607,19 +607,6 @@
       "type": "filter"
     },
     {
-      "id": "v-hlg",
-      "name": "HLG",
-      "groupId": "gv",
-      "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‌‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤))",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/tinted_badges/hlg-orange.png",
-      "tagColor": "#24FF7300",
-      "borderColor": "#FF7300",
-      "textColor": "#FF7300",
-      "tagStyle": "filled",
-      "type": "filter"
-    },
-    {
       "id": "v-10bit",
       "name": "10bit",
       "groupId": "gv",
