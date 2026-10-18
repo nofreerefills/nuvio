@@ -503,19 +503,6 @@
       "type": "filter"
     },
     {
-      "id": "src-hdtv",
-      "name": "HDTV",
-      "groupId": "gq",
-      "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‌‌‍⁤)",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/tinted_badges/hdtv-red.png",
-      "tagColor": "#24E64141",
-      "borderColor": "#E64141",
-      "textColor": "#E64141",
-      "tagStyle": "filled",
-      "type": "filter"
-    },
-    {
       "id": "v-dv-hdr10p",
       "name": "DV · HDR10+",
       "groupId": "gv",
@@ -746,6 +733,19 @@
       "tagColor": "#300064FF",
       "borderColor": "#0064FF",
       "textColor": "#0064FF",
+      "tagStyle": "filled",
+      "type": "filter"
+    },
+	{
+      "id": "s-ma",
+      "name": "MANYWHERE",
+      "groupId": "gs",
+      "isEnabled": true,
+      "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‌‌‍⁤)",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/tinted_badges/manywhere.png",
+      "tagColor": "#24A45CFF",
+      "borderColor": "#A45CFF",
+      "textColor": "#A45CFF",
       "tagStyle": "filled",
       "type": "filter"
     },
