@@ -92,37 +92,37 @@
       "groupId": "gst",
       "isEnabled": true,
       "pattern": "(?s)^(?=.*(?:⁣‌‌‍‍‌‍‍‍⁤))",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/seadex-gold.png",
-      "tagColor": "#20000000",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/seadex.png",
+      "tagColor": "#000000",
       "borderColor": "#000000",
       "textColor": "#000000",
       "tagStyle": "filled",
       "type": "filter"
     },
     {
-      "borderColor": "#BBDEFB",
+      "borderColor": "#000000",
       "groupId": "gst",
       "id": "special-cut",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/specialcut.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/special.png",
       "isEnabled": true,
       "name": "SPECIAL",
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‌‌‌⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤|⁣‌‌‌‌‌‍‌‍⁤|⁣‌‌‌‌‌‍‍‌⁤|⁣‌‌‌‌‌‍‍‍⁤))",
-      "tagColor": "#24BBDEFB",
+      "tagColor": "#000000",
       "tagStyle": "filled",
-      "textColor": "#BBDEFB",
+      "textColor": "#000000",
       "type": "filter"
     },
 	{
-      "borderColor": "#BBDEFB",
+      "borderColor": "#000000",
       "groupId": "gst",
       "id": "uncut",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/uncut-light-blue.png",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/uncut.png",
       "isEnabled": true,
       "name": "UNCUT",
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‌‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤))",
-      "tagColor": "#24BBDEFB",
+      "tagColor": "#000000",
       "tagStyle": "filled",
-      "textColor": "#BBDEFB",
+      "textColor": "#000000",
       "type": "filter"
     },
     {
@@ -133,7 +133,7 @@
       "isEnabled": true,
       "name": "REMUX 1",
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‌‍‌⁤)(?=.*⁣‌‍‌‍‌‌‌‌⁤)",
-      "tagColor": "#20000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -146,7 +146,7 @@
       "isEnabled": true,
       "name": "REMUX 2",
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‌‍‌⁤)(?=.*⁣‌‍‌‍‌‌‌‍⁤)(?!.*(?:⁣‌‍‌‍‌‌‌‌⁤))",
-      "tagColor": "#30000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -159,7 +159,7 @@
       "isEnabled": true,
       "name": "REMUX 3",
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‌‍‌⁤)(?=.*⁣‌‍‌‍‌‌‍‌⁤)(?!.*(?:⁣‌‍‌‍‌‌‌‌⁤|⁣‌‍‌‍‌‌‌‍⁤))",
-      "tagColor": "#30000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -276,7 +276,7 @@
       "isEnabled": true,
       "name": "WEB 1",
       "pattern": "(?s)^(?=.*(?:⁣‌‌‍‌‌‍‌‌⁤|⁣‌‌‍‌‌‍‌‍⁤))(?=.*⁣‌‍‌‍‌‌‌‌⁤)",
-      "tagColor": "#20000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -289,7 +289,7 @@
       "isEnabled": true,
       "name": "WEB 2",
       "pattern": "(?s)^(?=.*(?:⁣‌‌‍‌‌‍‌‌⁤|⁣‌‌‍‌‌‍‌‍⁤))(?=.*⁣‌‍‌‍‌‌‌‍⁤)(?!.*(?:⁣‌‍‌‍‌‌‌‌⁤))",
-      "tagColor": "#30000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -302,7 +302,7 @@
       "isEnabled": true,
       "name": "WEB 3",
       "pattern": "(?s)^(?=.*(?:⁣‌‌‍‌‌‍‌‌⁤|⁣‌‌‍‌‌‍‌‍⁤))(?=.*⁣‌‍‌‍‌‌‍‌⁤)(?!.*(?:⁣‌‍‌‍‌‌‌‌⁤|⁣‌‍‌‍‌‌‌‍⁤))",
-      "tagColor": "#24000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -315,7 +315,7 @@
       "isEnabled": true,
       "name": "WEB 4",
       "pattern": "(?s)^(?=.*(?:⁣‌‌‍‌‌‍‌‌⁤|⁣‌‌‍‌‌‍‌‍⁤))(?=.*⁣‌‍‌‍‌‌‍‍⁤)(?!.*(?:⁣‌‍‌‍‌‌‌‌⁤|⁣‌‍‌‍‌‌‌‍⁤|⁣‌‍‌‍‌‌‍‌⁤))",
-      "tagColor": "#24000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -328,7 +328,7 @@
       "isEnabled": true,
       "name": "WEB 5",
       "pattern": "(?s)^(?=.*(?:⁣‌‌‍‌‌‍‌‌⁤|⁣‌‌‍‌‌‍‌‍⁤))(?=.*⁣‌‍‌‍‌‍‌‌⁤)(?!.*(?:⁣‌‍‌‍‌‌‌‌⁤|⁣‌‍‌‍‌‌‌‍⁤|⁣‌‍‌‍‌‌‍‌⁤|⁣‌‍‌‍‌‌‍‍⁤))",
-      "tagColor": "#24000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -341,7 +341,7 @@
       "isEnabled": true,
       "name": "WEB 6",
       "pattern": "(?s)^(?=.*(?:⁣‌‌‍‌‌‍‌‌⁤|⁣‌‌‍‌‌‍‌‍⁤))(?=.*⁣‌‍‌‍‌‍‌‍⁤)(?!.*(?:⁣‌‍‌‍‌‌‌‌⁤|⁣‌‍‌‍‌‌‌‍⁤|⁣‌‍‌‍‌‌‍‌⁤|⁣‌‍‌‍‌‌‍‍⁤|⁣‌‍‌‍‌‍‌‌⁤))",
-      "tagColor": "#24000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
