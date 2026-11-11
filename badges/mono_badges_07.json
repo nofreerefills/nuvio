@@ -126,7 +126,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "groupId": "gms",
       "id": "remux-1",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/tier1.png",
@@ -139,7 +139,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "groupId": "gms",
       "id": "remux-2",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/tier2.png",
@@ -152,7 +152,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "groupId": "gms",
       "id": "remux-3",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/tier3.png",
@@ -165,7 +165,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "groupId": "gms",
       "id": "blu-ray-1",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/tier1.png",
@@ -178,7 +178,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "groupId": "gms",
       "id": "blu-ray-2",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/tier2.png",
@@ -191,7 +191,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "groupId": "gms",
       "id": "blu-ray-3",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/tier3.png",
@@ -269,7 +269,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "groupId": "gms",
       "id": "web-1",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/tier1.png",
@@ -282,7 +282,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "groupId": "gms",
       "id": "web-2",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/tier2.png",
@@ -295,7 +295,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "groupId": "gms",
       "id": "web-3",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/tier3.png",
@@ -354,7 +354,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/4k.png",
       "tagColor": "#000000",
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "textColor": "#000000",
       "tagStyle": "filled",
       "type": "filter"
@@ -367,7 +367,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/1080.png",
       "tagColor": "#000000",
-      "borderColor": "#000000",
+      "borderColor": "#81ffff",
       "textColor": "#000000",
       "tagStyle": "filled",
       "type": "filter"
@@ -419,7 +419,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‌‍‌⁤)",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/remux.png",
       "tagColor": "#000000",
-      "borderColor": "#000000",
+      "borderColor": "#db7cff",
       "textColor": "#000000",
       "tagStyle": "filled",
       "type": "filter"
@@ -432,7 +432,7 @@
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‌‌‍‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/bluray.png",
       "tagColor": "#000000",
-      "borderColor": "#000000",
+      "borderColor": "#81ffff",
       "textColor": "#000000",
       "tagStyle": "filled",
       "type": "filter"
