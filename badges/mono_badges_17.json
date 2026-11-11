@@ -415,9 +415,9 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‌‌‍⁤)",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/tintedv2/ma.png",
-      "tagColor": "#24A45CFF",
-      "borderColor": "#A45CFF",
-      "textColor": "#A45CFF",
+      "tagColor": "#248500a6",
+      "borderColor": "#8500a6",
+      "textColor": "#8500a6",
       "tagStyle": "filled",
       "type": "filter"
     },
