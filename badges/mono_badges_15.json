@@ -31,34 +31,6 @@
     {
       "borderColor": "#000000",
       "color": "#000000",
-      "id": "imax",
-      "isExpanded": false,
-      "name": "IMAX"
-    },
-    {
-      "borderColor": "#000000",
-      "color": "#000000",
-      "id": "gv",
-      "isExpanded": true,
-      "name": "Visual"
-    },
-    {
-      "borderColor": "#000000",
-      "color": "#000000",
-      "id": "ga",
-      "isExpanded": true,
-      "name": "Audio"
-    },
-    {
-      "borderColor": "#000000",
-      "color": "#000000",
-      "id": "gc",
-      "isExpanded": true,
-      "name": "Channels"
-    },
-    {
-      "borderColor": "#000000",
-      "color": "#000000",
       "id": "ge",
       "isExpanded": true,
       "name": "Encoder"
@@ -69,20 +41,6 @@
       "id": "gs",
       "isExpanded": true,
       "name": "Streaming"
-    },
-    {
-      "borderColor": "#000000",
-      "color": "#000000",
-      "id": "glang",
-      "isExpanded": true,
-      "name": "Language"
-    },
-    {
-      "id": "gsub",
-      "isExpanded": true,
-      "name": "Subtitle",
-      "borderColor": "#000000",
-      "color": "#000000"
     }
   ],
   "filters": [
@@ -342,32 +300,6 @@
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/webrip.png",
       "tagColor": "#24ff4d4d",
       "borderColor": "#ff4d4d",
-      "textColor": "#000000",
-      "tagStyle": "filled",
-      "type": "filter"
-    },
-    {
-      "id": "ge-av1",
-      "name": "AV1",
-      "groupId": "ge",
-      "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‍‍‌⁤)",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/av1.png",
-      "tagColor": "#24ffffff",
-      "borderColor": "#ffffff",
-      "textColor": "#000000",
-      "tagStyle": "filled",
-      "type": "filter"
-    },
-    {
-      "id": "s-h265",
-      "name": "HEVC",
-      "groupId": "ge",
-      "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣‌‌‍‌‍‍‍‍⁤)",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/mono/hevc.png",
-      "tagColor": "#24ffffff",
-      "borderColor": "#ffffff",
       "textColor": "#000000",
       "tagStyle": "filled",
       "type": "filter"
