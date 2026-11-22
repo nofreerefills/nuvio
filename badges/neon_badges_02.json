@@ -28,6 +28,13 @@
       "isExpanded": true,
       "name": "Quality"
     },
+	{
+      "borderColor": "#000000",
+      "color": "#000000",
+      "id": "gv",
+      "isExpanded": true,
+      "name": "Visual"
+    },
     {
       "borderColor": "#000000",
       "color": "#000000",
@@ -301,6 +308,19 @@
       "tagColor": "#40ff4d4d",
       "borderColor": "#ff4d4d",
       "textColor": "#000000",
+      "tagStyle": "filled",
+      "type": "filter"
+    },
+	{
+      "id": "v-imax",
+      "name": "IMAX",
+      "groupId": "gv",
+      "isEnabled": true,
+      "pattern": "(?s)^(?=.*⁣⁡‍⁠‍‌⁤)",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/tintedv2/imax.png",
+      "tagColor": "#40f0c500",
+      "textColor": "#000000",
+      "borderColor": "#f0c500",
       "tagStyle": "filled",
       "type": "filter"
     },
