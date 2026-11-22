@@ -86,9 +86,9 @@
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
-      "borderColor": "#f0c500",
-      "tagColor": "#40f0c500",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-imax.png"
+      "borderColor": "#6ac459",
+      "tagColor": "#406ac459",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-imax2.png"
     },
 	{
       "groupId": "gst",
@@ -99,9 +99,9 @@
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
-      "borderColor": "#f0c500",
-      "tagColor": "#40f0c500",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-matte.png"
+      "borderColor": "#6ac459",
+      "tagColor": "#406ac459",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-matte2.png"
     },
     {
       "groupId": "gms",
