@@ -326,32 +326,6 @@
 	},
 	{
 	  "groupId": "gv",
-	  "id": "v-hdr10p",
-	  "name": "HDR10+",
-	  "isEnabled": true,
-	  "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‍‌⁤)",
-	  "type": "filter",
-	  "tagStyle": "filled",
-	  "textColor": "#000000",
-	  "borderColor": "#ffffff",
-	  "tagColor": "#40ffffff",
-	  "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/v-hdr10p.png"
-	},
-	{
-	  "groupId": "gv",
-	  "id": "v-hdr10",
-	  "name": "HDR10",
-	  "isEnabled": true,
-	  "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‍‍⁤)",
-	  "type": "filter",
-	  "tagStyle": "filled",
-	  "textColor": "#000000",
-	  "borderColor": "#ffffff",
-	  "tagColor": "#40ffffff",
-	  "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/v-hdr10.png"
-	},
-	{
-	  "groupId": "gv",
 	  "id": "v-hdr",
 	  "name": "HDR",
 	  "isEnabled": true,
