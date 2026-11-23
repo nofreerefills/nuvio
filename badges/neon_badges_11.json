@@ -60,8 +60,8 @@
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
-      "borderColor": "#f0c500",
-      "tagColor": "#40f0c500",
+      "borderColor": "#ff4d4d",
+      "tagColor": "#40ff4d4d",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-cut.png"
     },
     {
@@ -73,35 +73,9 @@
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
-      "borderColor": "#f0c500",
-      "tagColor": "#40f0c500",
+      "borderColor": "#ff4d4d",
+      "tagColor": "#40ff4d4d",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-uncut.png"
-    },
-    {
-      "groupId": "gst",
-      "id": "sp-imax",
-      "name": "IMAX",
-      "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣⁡‍⁠‍‌⁤)",
-      "type": "filter",
-      "tagStyle": "filled",
-      "textColor": "#000000",
-      "borderColor": "#6ac459",
-      "tagColor": "#406ac459",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-imax2.png"
-    },
-	{
-      "groupId": "gst",
-      "id": "sp-matte",
-      "name": "OPEN MATTE",
-      "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣⁡⁠‌⁠‌⁤)",
-      "type": "filter",
-      "tagStyle": "filled",
-      "textColor": "#000000",
-      "borderColor": "#6ac459",
-      "tagColor": "#406ac459",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-matte2.png"
     },
     {
       "groupId": "gms",
@@ -337,7 +311,72 @@
       "tagColor": "#40ff4d4d",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/q-webrip.png"
     },
-    {
+	{
+	  "groupId": "gv",
+	  "id": "a-dv",
+	  "name": "DV",
+	  "isEnabled": true,
+	  "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‌‍⁤)",
+	  "type": "filter",
+	  "tagStyle": "filled",
+	  "textColor": "#000000",
+	  "borderColor": "#ffffff",
+	  "tagColor": "#40ffffff",
+	  "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/v-dv.png"
+	},
+	{
+	  "groupId": "gv",
+	  "id": "v-hdr",
+	  "name": "HDR",
+	  "isEnabled": true,
+	  "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‌‌⁤)",
+	  "type": "filter",
+	  "tagStyle": "filled",
+	  "textColor": "#000000",
+	  "borderColor": "#ffffff",
+	  "tagColor": "#40ffffff",
+	  "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/v-hdr.png"
+	},
+	{
+	  "groupId": "gv",
+	  "id": "v-10bit",
+	  "name": "10bit",
+	  "isEnabled": true,
+	  "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‍‌⁤)",
+	  "type": "filter",
+	  "tagStyle": "filled",
+	  "textColor": "#000000",
+	  "borderColor": "#ffffff",
+	  "tagColor": "#40ffffff",
+	  "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/v-10bit.png"
+	},
+	{
+      "groupId": "gv",
+      "id": "v-imax",
+      "name": "IMAX",
+      "isEnabled": true,
+      "pattern": "(?s)^(?=.*⁣⁡‍⁠‍‌⁤)",
+      "type": "filter",
+      "tagStyle": "filled",
+      "textColor": "#000000",
+      "borderColor": "#f0c500",
+      "tagColor": "#40f0c500",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/v-imax.png"
+    },
+	{
+      "groupId": "gv",
+      "id": "v-matte",
+      "name": "OPEN MATTE",
+      "isEnabled": true,
+      "pattern": "(?s)^(?=.*⁣⁡⁠‌⁠‌⁤)",
+      "type": "filter",
+      "tagStyle": "filled",
+      "textColor": "#000000",
+      "borderColor": "#f0c500",
+      "tagColor": "#40f0c500",
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/v-matte.png"
+    },
+	{
       "groupId": "gs",
       "id": "s-nflx",
       "name": "NETFLIX",
