@@ -385,8 +385,8 @@
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
-      "borderColor": "#6ac459",
-      "tagColor": "#406ac459",
+      "borderColor": "#f0c500",
+      "tagColor": "#40f0c500",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/v-imax.png"
     },
 	{
@@ -398,8 +398,8 @@
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
-      "borderColor": "#6ac459",
-      "tagColor": "#406ac459",
+      "borderColor": "#f0c500",
+      "tagColor": "#40f0c500",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/v-matte.png"
     },
 	{
