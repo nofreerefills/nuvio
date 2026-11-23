@@ -56,26 +56,26 @@
       "id": "sp-cut",
       "name": "CUT",
       "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‌‌‌⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤|⁣‌‌‌‌‌‍‌‍⁤|⁣‌‌‌‌‌‍‍‌⁤|⁣‌‌‌‌‌‍‍‍⁤))",
+      "pattern": "(?s)^(?=.*⁣‌‌‌‌‍‌‌‌⁤)",
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
       "borderColor": "#ff4d4d",
       "tagColor": "#40ff4d4d",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-cut.png"
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-cut1.png"
     },
     {
       "groupId": "gst",
       "id": "sp-uncut",
       "name": "UNCUT",
       "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‌‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤|⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤))",
+      "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‍‌‍⁤)",
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
       "borderColor": "#ff4d4d",
       "tagColor": "#40ff4d4d",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-uncut.png"
+      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-uncut1.png"
     },
     {
       "groupId": "gms",
