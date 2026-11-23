@@ -215,10 +215,9 @@
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‍‌‍‍⁤)",
       "type": "filter",
       "tagStyle": "filled",
-      "textColor": "#000000",
+      "textColor": "#00baba",
       "borderColor": "#00baba",
       "tagColor": "#4000baba",
-      "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/r-1080.png"
     },
     {
       "groupId": "gr",
