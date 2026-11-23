@@ -60,8 +60,8 @@
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
-      "borderColor": "#84de2e",
-      "tagColor": "#4084de2e",
+      "borderColor": "#ff4d4d",
+      "tagColor": "#40ff4d4d",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-cut.png"
     },
     {
@@ -73,8 +73,8 @@
       "type": "filter",
       "tagStyle": "filled",
       "textColor": "#000000",
-      "borderColor": "#84de2e",
-      "tagColor": "#4084de2e",
+      "borderColor": "#ff4d4d",
+      "tagColor": "#40ff4d4d",
       "imageURL": "https://raw.githubusercontent.com/nofreerefills/nuvio/main/badges/neon/sp-uncut.png"
     },
     {
